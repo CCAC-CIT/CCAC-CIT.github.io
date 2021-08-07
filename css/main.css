@@ -1,0 +1,10 @@
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+.jumbotron{
+  background:
+  url(assets/Images/header.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
